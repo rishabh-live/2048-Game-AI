@@ -1,0 +1,3 @@
+Generation : 1 Score : 900
+Generation : 2 Score : 1316
+Generation : 3 Score : 1088
