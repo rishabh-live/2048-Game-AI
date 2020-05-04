@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author Konstantin Bulenkov
+ * @author Rishabh
  */
 public class Game2048 extends JPanel {
   /**
